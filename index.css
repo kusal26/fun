@@ -1,0 +1,15 @@
+.form
+{
+    text-align: center;
+    font-style: serif;
+    background-color: antiquewhite;
+    border: inset;
+    border-color: aqua;
+    /*width: 50%;
+    
+    display: flex;
+    justify-content: center;
+    
+    //margin :auto;*/
+
+}
